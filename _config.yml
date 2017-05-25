@@ -7,29 +7,29 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://biomadeira.github.io/vitae
-author: Fábio Madeira
+url: http://jakinbohun.github.io/resume
+author: Jeremiah Akinbohun
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
-google_analytics: UA-69300817-1
+baseurl: /resume/
+title: Jeremiah Akinbohun's Resume
+name: Jeremiah Akinbohun
+email: jakinbohun@gmail.com
+email_full: mailto:jeremiahakinbohun@gmail.com
+website: github.io/jakinbohun
+website_full: https://jakinbohun.github.io/sustain
+github: jakinbohun
+twitter: j_akinbohun
+tel: 703 408-5898
+tel_full: tel:7034085898
+google_maps: 'https://www.google.com/maps/place/15025+Spriggs+Valley+Ct,+Woodbridge,+VA+22193/@38.626591,-77.3782086,17z/data=!3m1!4b1!4m5!3m4!1s0x89b6f802e5251039:0xfad76f31125628e4!8m2!3d38.6265868!4d-77.3760199'
+address: 15025 Spriggs Valley Court
+postcode: 22193
+city: Woodbridge,Virginia
+country: United States
+google_analytics: UA-98714738-1
 
 # needed for travis-ci build
 exclude: [vendor]
